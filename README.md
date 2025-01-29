@@ -1,4 +1,4 @@
-# Java Fundamentals: Seu Espaço para Scripts Java ⚔
+# Java Fundamentals: Seu Espaço para Scripts Java ☕
 
 😀 Olá! Meu nome é Rodolfo, sou formado em Sistemas de Informação e apaixonado por programação!
  
